@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+```bash
+yarn create next-app -e https://github.com/pedromuraki/next-boilerplate
+```
+
 First, run the development server:
 
 ```bash
